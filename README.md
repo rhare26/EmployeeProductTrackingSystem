@@ -20,7 +20,3 @@ Viewing, buying, or selling a product:
 Combo Deal (Decorator with multiple objects):
 
 ![alt text](https://github.com/rhare26/EmployeeProductTrackingSystem/blob/main/Combo%20Deal.png)
-
-UML Diagram:
-
-![alt text](https://github.com/rhare26/EmployeeProductTrackingSystem/blob/main/UML%20Diagram.png)
